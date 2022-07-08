@@ -1,5 +1,8 @@
+
 # examen_integrador
 Examen Integrador Practico
 
-Santiago Giraldo Parra 
+Santiago Giraldo Parra
 Luis Del Barrio
+Cordoba Redondo Gaston
+
